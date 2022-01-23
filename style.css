@@ -1,3 +1,30 @@
 body{
     font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+.gray-bg{
+    background: #F4F4F4;
+}
+
+.primary-background{
+    background: #FEEAE9;
+}
+.primary-text{
+    color: #FF136F;
+}
+.secendery-text{
+    color: #1F1F1F;
+}
+.orange-color{
+    background: linear-gradient(#FF9C35, #FFD019);
+}
+.prink-color{
+    background: linear-gradient(180deg,#FF589B, #FF136F);
+    color: #fff;
+}
+.blue-color{
+    background: linear-gradient(#4289FF,#3F07F8);
+}
+.text-orange{
+    color: #FF9D00;
 }
